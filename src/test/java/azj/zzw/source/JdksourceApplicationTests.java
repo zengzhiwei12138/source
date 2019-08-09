@@ -1,4 +1,4 @@
-package azj.zzw.jdksource;
+package azj.zzw.source;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

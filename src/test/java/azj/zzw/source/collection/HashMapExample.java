@@ -1,4 +1,4 @@
-package azj.zzw.jdksource.collection;
+package azj.zzw.source.collection;
 
 import org.junit.Test;
 
